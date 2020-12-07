@@ -1,4 +1,4 @@
-<img align="right" src="tormod.png">
+<img align="right" src="tormod.png" height=300>
   
 ### Are you lost? If not, welcome!
 
