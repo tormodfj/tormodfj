@@ -2,4 +2,4 @@
   
 ### .NET dev by profession, tinkerer by heart
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormodfj&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormodfj&layout=compact&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
